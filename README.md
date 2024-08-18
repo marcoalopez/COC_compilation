@@ -1,10 +1,10 @@
 # Cabo Ortegal complex high-P units bibliography
 
-> [!NOTE]
-> This is a compilation of studies on the high-pressure units of the Cabo Ortegal complex by Marco A. Lopez-Sanchez. It is arranged chronologically and divided into 5 different sections. The studies have different tags to facilitate the search by subject.
+
+This is a compilation of studies on the high-pressure units of the Cabo Ortegal complex by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/). It is arranged chronologically and divided into 5 different sections. The studies have different tags to facilitate the search by subject.
 
 > [!IMPORTANT]
-> If you find a missing study or an error, open an issue [here](https://github.com/marcoalopez/COC_compilation/issues) or send it to me and I will update the list.
+> If you find a missing study or an error/typo, open an issue [here](https://github.com/marcoalopez/COC_compilation/issues) or send an email and I will update the reference list.
 
 ## Pre-1990 papers
 
@@ -159,7 +159,7 @@ Azcárraga, J. (2000) Evolución tectónica y metamórfica de los mantos inferio
 
 Puelles Olarte P. (2004) Deformación, metamorfismo y exhumación de las granulitas de alta presión de la Bacariza (Complejo de Cabo Ortegal, NO España). Serie Nova Terra 23, 411 pp. (PhD thesis, Univ. del País Vasco, Bilbao) ``high-P granulites, Bacariza granulites, deformation, petrology, thermobarometry``
 
-García Izquierdo B et al. (2011) Evolución geodinámica y procesos mantélicos en el Macizo de Herbeira complejo de Cabo Ortegal (NO de la Península Ibérica).  Serie Nova Terra 39, xxx pp. (PhD thesis, Universidad Complutense de Madrid, Madrid presented in 2005). ``mantle, peridotites, petrology, deformation, CPO, model``
+García Izquierdo B et al. (2011) Evolución geodinámica y procesos mantélicos en el Macizo de Herbeira complejo de Cabo Ortegal (NO de la Península Ibérica).  Serie Nova Terra 39, 361 pp. (PhD thesis, Universidad Complutense de Madrid, Madrid presented in 2005). ``mantle, peridotites, petrology, deformation, CPO, model``
 
 Albert Roper, R (2017) The Eclogitic Gneisses of the Cabo Ortegal Complex: Provenance and tectonothermal evolution. Serie Nova Terra 48, 335 pp. (PhD thesis, Univ. Complutense de Madrid, Madrid, presented in 2016). ``high-P gneiss, banded gneisses, provenance``
 
