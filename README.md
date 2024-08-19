@@ -1,12 +1,13 @@
 # Cabo Ortegal complex high-P units bibliography
 
+by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/)
 
-This is a compilation of studies on the high-pressure units of the Cabo Ortegal complex by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/). It is arranged chronologically and divided into 5 different sections. The studies have different tags to facilitate the search by subject.
+The following compilation is a comprehensive list of sources relating to the high P units of the Cabo Ortegal Complex. It is arranged chronologically and divided into 5 different sections. The studies have different tags to facilitate the search by topic/keyword.
 
 > [!IMPORTANT]
-> If you find a missing study or an error/typo, open an issue [here](https://github.com/marcoalopez/COC_compilation/issues) or send an email and I will update the reference list.
+> If you find a missing study or an error/typo, open an issue [here](https://github.com/marcoalopez/COC_compilation/issues) or send me an email and I will update the reference list.
 
-## Pre-1990 papers
+## Regular papers (1961-today)
 
 den Tex, E. 1961. Some preliminary results of petrological work in Galicia (N.W. Spain). Leidse Geologische Mededelingen, *26*(1), 75–91. https://repository.naturalis.nl/pub/505836
 
@@ -22,22 +23,16 @@ van Calsteren, P.W.C., 1977. A mantle-plume–model interpretation for the Paleo
 
 van Calsteren, P.W.C., 1978. Geochronological, geochemical and geophysical investigations in the high-grade mafic-ultramafic complex at Cabo Ortegal and other pre-existing elements in the Hercynian basement of Galicia (NW Spain). Leidse Geologische Mededelingen 51, 57–61. https://repository.naturalis.nl/pub/505688
 
-van Calsteren, P.W.C., 1978. Geochemistry of the polymetamorphic mafic-ultramafic complex at Cabo Ortegal (NW Spain). Lithos 11, 61–72. https://doi.org/10.1016/0024-4937(78)90031-2
+van Calsteren, P.W.C., 1978. Geochemistry of the polymetamorphic mafic-ultramafic complex at Cabo Ortegal (NW Spain). Lithos 11, 61–72. https://doi.org/10.1016/0024-4937(78)90031-2 ``high-P units, geochemistry``
 
-van Calsteren, P.W.C., Boelrijk, N.A.I.M., Hebeda, E.H., Priem, H.N.A., Den Tex, E., Verdurmen, E.A.T., Verschure, R.H., 1979. Isotopic dating of older elements (including the Cabo Ortegal mafic-ultramafic complex) in the Hercynian orogen of NW Spain: Manifestations of a presumed Early Paleozoic mantle-plume. Chemical Geology 24, 35–56. https://doi.org/10.1016/0009-2541(79)90011-1 ``dating``
+van Calsteren, P.W.C., Boelrijk, N.A.I.M., Hebeda, E.H., Priem, H.N.A., den Tex, E., Verdurmen, E.A.T., Verschure, R.H., 1979. Isotopic dating of older elements (including the Cabo Ortegal mafic-ultramafic complex) in the Hercynian orogen of NW Spain: Manifestations of a presumed Early Paleozoic mantle-plume. Chemical Geology 24, 35–56. https://doi.org/10.1016/0009-2541(79)90011-1 ``high-P units, dating``
 
 Drury, S. A . 1980 The geochemistry of high-pressure gneisses from Cabo Ortega! (NW Spain):
 residues of deep anatexis - Geol. Mijnbouw 59: 61-64. ``high-P granulites, geochemistry``
 
-Marcos, A., Marquínez, J., Pérez-Estaún, A., Pulgar, J.A., Bastida, F. 1984. Nuevas aportaciones  al conocimiento de la evolución tectonometamórfica del Complejo de Cabo Ortegal (NW de  España). Cuadernos do Laboratorio Xeolóxico de Laxe, 7, 125-137. http://hdl.handle.net/2183/5867
-
 Bernard-Griffiths, J., Peucat, J.-J., Cornichet, J., Iglésias Ponce de Léon, M., Gil Ibarguchi, J.I., 1985. Pb, Nd Isotope and REE geochemistry in eclogites from the Cabo Ortegal Complex, Galicia, Spain: An example of REE immobility conserving MORB-like patterns during high-grade metamorphism. Chemical Geology: Isotope Geoscience section 52, 217–225. https://doi.org/10.1016/0168-9622(85)90019-3 ``eclogites, geochemistry``
 
-Basterra, R., Cassi, J.M., Pérez San Roman, L., Tascón, A., and Gil Ibarguchi, J.I., 1989. Evolución metamórfica de las rocas pelíticas y semipelíticas de las formaciones “Banded Gneisses” y “Gneises de Cariño” (Cabo Ortegal, NW España): Studia Geologica Salmanticensia, v. 4, p. 131–144. ``high-P gneiss, petrology``
-
 Girardeau, J., Gil Ibarguchi, J.I., Jamaa, N.B., 1989. Evidence for a Heterogeneous Upper Mantle in the Cabo Ortegal Complex, Spain. Science 245, 1231–1233. https://doi.org/10.1126/science.245.4923.1231 ``mantle, peridotite, pyroxenite``
-
-## General
 
 Gil Ibarguchi, J.I., Mendia, M., Girardeau, J., Peucat, J.J., 1990. Petrology of eclogites and clinopyroxene-garnet metabasites from the Cabo Ortegal Complex (northwestern Spain). Lithos 25, 133–162. https://doi.org/10.1016/0024-4937(90)90011-O ``eclogites, high-P granulites, petrology``
 
@@ -53,21 +48,15 @@ Girardeau, J., Gil Ibarguchi, J.I., 1991. Pyroxenite-Rich Peridotites of the Cab
 
 Santos Zalduegui, J.F., Schärer, U., Gil Ibarguchi, J.I., Girardeau, J., 1996. Origin and evolution of the Paleozoic Cabo Ortegal ultramafic-mafic complex (NW Spain): U-Pb, Rb-Sr and Pb-Pb isotope data. Chemical Geology 129, 281–304. https://doi.org/10.1016/0009-2541(95)00144-1 ``mantle, dating``
 
-Valverde Vaquero, P., Fernández, F.J., 1996. Edad de enfriamiento U/Pb en rutilos del Gneis de Chímparra (Cabo Ortegal, NO de España). Geogaceta 20, 475-478 https://hdl.handle.net/10651/73974 ``high-P gneiss, Chímparra gneiss, dating``
-
 Ábalos, B., 1997. Omphacite fabric variation in the Cabo Ortegal eclogite (NW Spain): relationships with strain symmetry during high-pressure deformation. Journal of Structural Geology 19, 621–637. https://doi.org/10.1016/S0191-8141(97)00001-1 ``eclogites, deformation, CPO``
-
-Fernández, F.J., Marcos, A., 1997. Datos Geoquímicos de los gneises de Chímparra y consideraciones sobre el Origen de los gneises cuarzofeldespáticos del complejo de Cabo Ortegal (NW de España). Conference: XIV Reunião de Geologia do Oeste Peninsula ``high-P gneiss, Chímparra gneiss, geochemistry``
 
 Galán, G., Marcos, A., 1997. Geochemical evolution of high-pressure mafic granulites from the Bacariza formation (Cabo Ortegal complex, NW Spain): an example of a heterogeneous lower crust. Geologische Rundschau 86, 539–555. https://doi.org/10.1007/s005310050162 ``high-P granulites, Bacariza granulites, petrology``
 
-il Ibarguchi, J.I., Ábalos, B., Azcárraga, J., Puelles, P., 1999. Deformation, high‐pressure metamorphism and exhumation of ultramafic rocks in a deep subduction/collision setting (Cabo Ortegal, NW Spain). Journal Metamorphic Geology 17, 747–764. https://doi.org/10.1046/j.1525-1314.1999.00227.x ``mantle, deformation, petrology``
+Gil Ibarguchi, J.I., Ábalos, B., Azcárraga, J., Puelles, P., 1999. Deformation, high‐pressure metamorphism and exhumation of ultramafic rocks in a deep subduction/collision setting (Cabo Ortegal, NW Spain). Journal Metamorphic Geology 17, 747–764. https://doi.org/10.1046/j.1525-1314.1999.00227.x ``mantle, deformation, petrology``
 
 Galán, G., Marcos, A., 2000. The metamorphic evolution of the high pressure mafic granulites of the Bacariza Formation (Cabo Ortegal Complex, Hercynian belt, NW Spain). Lithos 54, 139–171. https://doi.org/10.1016/S0024-4937(00)00020-7 ``high-P granulites, Bacariza granulites, petrology``
 
 Ordóñez Casado, B., Gebauer, D., Schäfer, H.J., Gil Ibarguchi, J.I., Peucat, J.J., 2001. A single Devonian subduction event for the HP/HT metamorphism of the Cabo Ortegal complex within the Iberian Massif. Tectonophysics 332, 359–385. https://doi.org/10.1016/S0040-1951(00)00210-9 ``high-P units, dating``
-
-Ábalos, B., Gil Ibarguchi, J.I., Mendía, M.S., 2001. Evolución metamórfica P-T-d-t- y significado geodinámico de la unidad eclogítica del complejo de Cabo Ortegal (NO de España).  Cadernos do Laboratorio Xeolóxico de Laxe 26, 155-178. ``eclogites, petrology``
 
 Moreno, T., Gibbons, W., Prichard, H.M., Lunar, R., 2001. Platiniferous chromitite and the tectonic setting of ultramafic rocks in Cabo Ortegal, NW Spain. JGS 158, 601–614. https://doi.org/10.1144/jgs.158.4.601 ``mantle, chromitite``
 
@@ -85,7 +74,7 @@ Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2005. Metamorphic evolution and t
 
 Llana-Fúnez, S., Marcos, A., Kunze, K., 2005. Strain geometry in Concepenido eclogites during widespread HP deformation (Cabo Ortegal Complex, NW Spain). Tectonophysics 401, 198–216. https://doi.org/10.1016/j.tecto.2005.03.007 ``eclogites, CPO, deformation``
 
-Puelles, P., Mulchrone, K.F., Ábalos, B., Ibarguchi, J.I.G., 2005. Structural analysis of high-pressure shear zones (Bacariza Formation, Cabo Ortegal, NW Spain). Journal of Structural Geology 27, 1046–1060. https://doi.org/10.1016/j.jsg.2005.03.002 ``high-P granulites, Bacariza granulites, deformation``
+Puelles, P., Mulchrone, K.F., Ábalos, B., Gil Ibarguchi, J.I., 2005. Structural analysis of high-pressure shear zones (Bacariza Formation, Cabo Ortegal, NW Spain). Journal of Structural Geology 27, 1046–1060. https://doi.org/10.1016/j.jsg.2005.03.002 ``high-P granulites, Bacariza granulites, deformation``
 
 Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2007. Microstructural evidences for thermal runaway and deep palaeoseismic activity (Cabo Ortegal, NW Spain). Terra Nova 19, 219–224. https://doi.org/10.1111/j.1365-3121.2007.00738.x ``deformation, palaeoseismicity``
 
@@ -96,8 +85,6 @@ Brown, D., Llana-Funez, S., Carbonell, R., Alvarez-Marron, J., Marti, D., Salisb
 Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2009. Transposed high-pressure granulite fabrics (Cabo Ortegal, NW Spain): Implications on the scales of deformation localization. Journal of Structural Geology 31, 776–790. https://doi.org/10.1016/j.jsg.2009.05.001 ``high-P granulites, Bacariza granulites, deformation``
 
 Ábalos, B., Fountain, D.M., Gil Ibarguchi, J.I., Puelles, P., 2011. Eclogite as a seismic marker in subduction channels: Seismic velocities, anisotropy, and petrofabric of Cabo Ortegal eclogite tectonites (Spain). Geological Society of America Bulletin 123, 439–456. https://doi.org/10.1130/B30226.1 ``eclogite, seismic properties, CPO``
-
-García Izquierdo, B., Capote, R., Lunar López, R. 2011. La fábrica del olivino y las condiciones de la deformación de las rocas ultramáficas del Macizo de Herbeira (Cabo Ortegal, NO del Macizo Ibérico).  Revista de la Sociedad Geológica de España 24, 135-151 https://sge.usal.es/archivos/REV/24(1-2)/art08.pdf ``mantle, CPO``
 
 Albert, R., Arenas, R., Sánchez-Martínez, S., Gerdes, A., 2012. The eclogite facies gneisses of the Cabo Ortegal Complex (NW Iberian Massif): Tectonothermal evolution and exhumation model. Journal of Iberian Geology 38, 389–406. https://doi.org/10.5209/rev_JIGE.2012.v38.n2.40465 ``high-P gneiss, banded gneiss``
 
@@ -122,6 +109,20 @@ Spránitz, T., Padrón‐Navarta, J.A., Szabó, C., Szabó, Á., Berkesi, M., 20
 Beranoaguirre, A., Garcia De Madinabeitia, S., Sanchez-Lorda, M.E., Puelles, P., Abalos, B., Gil-Ibarguchi, J.I., 2022. Geochemical dataset of high-pressure acid migmatites from the Cabo Ortegal Complex (NW Spain). Data in Brief 40, 107823. https://doi.org/10.1016/j.dib.2022.107823 ``high-P granulites, Bacariza granulites, thermobarometry, geochemistry``
 
 Spránitz, T., Szabó, C., Gilio, M., Alvaro, M., Blažeková, M., Konečný, P., Váczi, T., Berkesi, M., 2023. Estimation of P-T entrapment conditions of a subduction fluid using elastic thermobarometry: A case study from Cabo Ortegal Complex, Spain. Lithos 448–449, 107171. https://doi.org/10.1016/j.lithos.2023.107171 ``high-P granulites, Bacariza granulites, thermobarometry``
+
+## Papers in spanish
+
+Marcos, A., Marquínez, J., Pérez-Estaún, A., Pulgar, J.A., Bastida, F. 1984. Nuevas aportaciones  al conocimiento de la evolución tectonometamórfica del Complejo de Cabo Ortegal (NW de  España). Cuadernos do Laboratorio Xeolóxico de Laxe, 7, 125-137. http://hdl.handle.net/2183/5867
+
+Basterra, R., Cassi, J.M., Pérez San Roman, L., Tascón, A., and Gil Ibarguchi, J.I., 1989. Evolución metamórfica de las rocas pelíticas y semipelíticas de las formaciones “Banded Gneisses” y “Gneises de Cariño” (Cabo Ortegal, NW España): Studia Geologica Salmanticensia, v. 4, p. 131–144. ``high-P gneiss, petrology``
+
+Valverde Vaquero, P., Fernández, F.J., 1996. Edad de enfriamiento U/Pb en rutilos del Gneis de Chímparra (Cabo Ortegal, NO de España). Geogaceta 20, 475-478 https://hdl.handle.net/10651/73974 ``high-P gneiss, Chímparra gneiss, dating``
+
+Fernández, F.J., Marcos, A., 1997. Datos Geoquímicos de los gneises de Chímparra y consideraciones sobre el Origen de los gneises cuarzofeldespáticos del complejo de Cabo Ortegal (NW de España). Conference: XIV Reunião de Geologia do Oeste Peninsula ``high-P gneiss, Chímparra gneiss, geochemistry``
+
+Ábalos, B., Gil Ibarguchi, J.I., Mendía, M.S., 2001. Evolución metamórfica P-T-d-t- y significado geodinámico de la unidad eclogítica del complejo de Cabo Ortegal (NO de España).  Cadernos do Laboratorio Xeolóxico de Laxe 26, 155-178. ``eclogites, petrology``
+
+García Izquierdo, B., Capote, R., Lunar López, R. 2011. La fábrica del olivino y las condiciones de la deformación de las rocas ultramáficas del Macizo de Herbeira (Cabo Ortegal, NO del Macizo Ibérico).  Revista de la Sociedad Geológica de España 24, 135-151 https://sge.usal.es/archivos/REV/24(1-2)/art08.pdf ``mantle, CPO``
 
 ## Reviews
 
@@ -153,13 +154,13 @@ Ordoñez Casado, B. (1998) Geochronological studies of the Pre-Mesozoic basement
 
 Moreno, T. (1999). Platinum-group elements and chromite mineralization in ultramafic rocks: a case study from the Cabo Ortegal Complex, NW Spain. PhD thesis, Cardiff University, 224. ``mantle, chromitites``
 
-Mendia, M.S. (2000) Petrología de la unidad eclogítica del Complejo de Cabo Ortegal (NW de España). Serie Nova Terra 16, 424 pp. (PhD thesis, Univ. del País Vasco, Bilbao, 463 pp. presented in 1996). ``eclogites, deformation, petrology, thermobarometry``
+Mendía, M.S. (2000) Petrología de la unidad eclogítica del Complejo de Cabo Ortegal (NW de España). Serie Nova Terra 16, 424 pp. (PhD thesis, Univ. del País Vasco, Bilbao, 463 pp. presented in 1996). ``eclogites, deformation, petrology, thermobarometry``
 
 Azcárraga, J. (2000) Evolución tectónica y metamórfica de los mantos inferiores de grado alto y alta presión del Complejo de Cabo Ortegal. Serie Nova Terra 17, xx pp. (PhD thesis, Univ. del País Vasco, Bilbao, 463 pp. presented in 1998). ``high-P units, Candelaria & Agüdo granulites, deformation, Carreiro shear zone``
 
 Puelles Olarte P. (2004) Deformación, metamorfismo y exhumación de las granulitas de alta presión de la Bacariza (Complejo de Cabo Ortegal, NO España). Serie Nova Terra 23, 411 pp. (PhD thesis, Univ. del País Vasco, Bilbao) ``high-P granulites, Bacariza granulites, deformation, petrology, thermobarometry``
 
-García Izquierdo B et al. (2011) Evolución geodinámica y procesos mantélicos en el Macizo de Herbeira complejo de Cabo Ortegal (NO de la Península Ibérica).  Serie Nova Terra 39, 361 pp. (PhD thesis, Universidad Complutense de Madrid, Madrid presented in 2005). ``mantle, peridotites, petrology, deformation, CPO, model``
+García Izquierdo B. (2011) Evolución geodinámica y procesos mantélicos en el Macizo de Herbeira complejo de Cabo Ortegal (NO de la Península Ibérica).  Serie Nova Terra 39, 361 pp. (PhD thesis, Universidad Complutense de Madrid, Madrid presented in 2005). ``mantle, peridotites, petrology, deformation, CPO, model``
 
 Albert Roper, R (2017) The Eclogitic Gneisses of the Cabo Ortegal Complex: Provenance and tectonothermal evolution. Serie Nova Terra 48, 335 pp. (PhD thesis, Univ. Complutense de Madrid, Madrid, presented in 2016). ``high-P gneiss, banded gneisses, provenance``
 
@@ -174,4 +175,4 @@ Tilhac R (2017) Petrology and geochemistry of Pyroxenites from the Cabo Ortegal 
 This compilation has been made possible thanks to funding from the Government of the Principality of Asturias and the Foundation for the Promotion of Applied Research in Asturias (FICYT) (grant SV-PA-21-AYUD/2021/57163) under the Asturias Plan for Science, Technology and Innovation 2018-2022 (PCTI-Asturias). 
 
 > [!WARNING]
->  _The information on this website and in the script documentation is provided without any warranty of any kind, either expressed or implied, and may include technical inaccuracies or typographical errors; the author reserves the right to make changes or improvements to the content of this website and the script documentation at any time without notice._
+>  _The information on this website is provided without any warranty of any kind, either expressed or implied, and may include technical inaccuracies or typographical errors; the author reserves the right to make changes or improvements to the content of this website and the script documentation at any time without notice._
