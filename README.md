@@ -9,6 +9,8 @@ The following compilation is a comprehensive list of sources relating to the hig
 
 ## Regular papers (1961-today)
 
+### 1970s
+
 den Tex, E. 1961. Some preliminary results of petrological work in Galicia (N.W. Spain). Leidse Geologische Mededelingen, *26*(1), 75–91. https://repository.naturalis.nl/pub/505836
 
 den Tex, E., Vogel, D.E., 1962. A “Granulitgebirge” at Cabo Ortegal (N.W. Spain). Geol Rundsch 52, 95–112. https://doi.org/10.1007/BF01840066
@@ -27,12 +29,16 @@ van Calsteren, P.W.C., 1978. Geochemistry of the polymetamorphic mafic-ultramafi
 
 van Calsteren, P.W.C., Boelrijk, N.A.I.M., Hebeda, E.H., Priem, H.N.A., den Tex, E., Verdurmen, E.A.T., Verschure, R.H., 1979. Isotopic dating of older elements (including the Cabo Ortegal mafic-ultramafic complex) in the Hercynian orogen of NW Spain: Manifestations of a presumed Early Paleozoic mantle-plume. Chemical Geology 24, 35–56. https://doi.org/10.1016/0009-2541(79)90011-1 ``high-P units, dating``
 
+### 1980s
+
 Drury, S. A . 1980 The geochemistry of high-pressure gneisses from Cabo Ortega! (NW Spain):
 residues of deep anatexis - Geol. Mijnbouw 59: 61-64. ``high-P granulites, geochemistry``
 
 Bernard-Griffiths, J., Peucat, J.-J., Cornichet, J., Iglésias Ponce de Léon, M., Gil Ibarguchi, J.I., 1985. Pb, Nd Isotope and REE geochemistry in eclogites from the Cabo Ortegal Complex, Galicia, Spain: An example of REE immobility conserving MORB-like patterns during high-grade metamorphism. Chemical Geology: Isotope Geoscience section 52, 217–225. https://doi.org/10.1016/0168-9622(85)90019-3 ``eclogites, geochemistry``
 
 Girardeau, J., Gil Ibarguchi, J.I., Jamaa, N.B., 1989. Evidence for a Heterogeneous Upper Mantle in the Cabo Ortegal Complex, Spain. Science 245, 1231–1233. https://doi.org/10.1126/science.245.4923.1231 ``mantle, peridotite, pyroxenite``
+
+### 1990s
 
 Gil Ibarguchi, J.I., Mendia, M., Girardeau, J., Peucat, J.J., 1990. Petrology of eclogites and clinopyroxene-garnet metabasites from the Cabo Ortegal Complex (northwestern Spain). Lithos 25, 133–162. https://doi.org/10.1016/0024-4937(90)90011-O ``eclogites, high-P granulites, petrology``
 
@@ -52,7 +58,9 @@ Santos Zalduegui, J.F., Schärer, U., Gil Ibarguchi, J.I., Girardeau, J., 1996. 
 
 Galán, G., Marcos, A., 1997. Geochemical evolution of high-pressure mafic granulites from the Bacariza formation (Cabo Ortegal complex, NW Spain): an example of a heterogeneous lower crust. Geologische Rundschau 86, 539–555. https://doi.org/10.1007/s005310050162 ``high-P granulites, Bacariza granulites, petrology``
 
-Gil Ibarguchi, J.I., Ábalos, B., Azcárraga, J., Puelles, P., 1999. Deformation, high‐pressure metamorphism and exhumation of ultramafic rocks in a deep subduction/collision setting (Cabo Ortegal, NW Spain). Journal Metamorphic Geology 17, 747–764. https://doi.org/10.1046/j.1525-1314.1999.00227.x ``mantle, deformation, petrology``
+Gil Ibarguchi, J.I., Ábalos, B., Azcárraga, J., Puelles, P., 1999. Deformation, high‐pressure metamorphism and exhumation of ultramafic rocks in a deep subduction/collision setting (Cabo Ortegal, NW Spain). Journal Metamorphic Geology 17, 747–764. https://doi.org/10.1046/j.1525-1314.1999.00227.x ``peridotite, deformation, petrology, garnet harzburgite, Ti-clinohumite``
+
+### 2000s
 
 Galán, G., Marcos, A., 2000. The metamorphic evolution of the high pressure mafic granulites of the Bacariza Formation (Cabo Ortegal Complex, Hercynian belt, NW Spain). Lithos 54, 139–171. https://doi.org/10.1016/S0024-4937(00)00020-7 ``high-P granulites, Bacariza granulites, petrology``
 
@@ -84,6 +92,8 @@ Brown, D., Llana-Funez, S., Carbonell, R., Alvarez-Marron, J., Marti, D., Salisb
 
 Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2009. Transposed high-pressure granulite fabrics (Cabo Ortegal, NW Spain): Implications on the scales of deformation localization. Journal of Structural Geology 31, 776–790. https://doi.org/10.1016/j.jsg.2009.05.001 ``high-P granulites, Bacariza granulites, deformation``
 
+### 2010s
+
 Ábalos, B., Fountain, D.M., Gil Ibarguchi, J.I., Puelles, P., 2011. Eclogite as a seismic marker in subduction channels: Seismic velocities, anisotropy, and petrofabric of Cabo Ortegal eclogite tectonites (Spain). Geological Society of America Bulletin 123, 439–456. https://doi.org/10.1130/B30226.1 ``eclogite, seismic properties, CPO``
 
 Albert, R., Arenas, R., Sánchez-Martínez, S., Gerdes, A., 2012. The eclogite facies gneisses of the Cabo Ortegal Complex (NW Iberian Massif): Tectonothermal evolution and exhumation model. Journal of Iberian Geology 38, 389–406. https://doi.org/10.5209/rev_JIGE.2012.v38.n2.40465 ``high-P gneiss, banded gneiss``
@@ -101,6 +111,8 @@ Tilhac, R., Ceuleneer, G., Griffin, W.L., O’Reilly, S.Y., Pearson, N.J., Benoi
 Tilhac, R., Grégoire, M., O’Reilly, S.Y., Griffin, W.L., Henry, H., Ceuleneer, G., 2017. Sources and timing of pyroxenite formation in the sub-arc mantle: Case study of the Cabo Ortegal Complex, Spain. Earth and Planetary Science Letters 474, 490–502. https://doi.org/10.1016/j.epsl.2017.07.017 ``mantle, pyroxenite, dating, geochemistry``
 
 Henry, H., Tilhac, R., Griffin, W.L., O’Reilly, S.Y., Satsukawa, T., Kaczmarek, M.-A., Grégoire, M., Ceuleneer, G., 2017. Deformation of mantle pyroxenites provides clues to geodynamic processes in subduction zones: Case study of the Cabo Ortegal Complex, Spain. Earth and Planetary Science Letters 472, 174–185. https://doi.org/10.1016/j.epsl.2017.05.028 ``mantle, pyroxenites, deformation, CPO``
+
+### 2020s
 
 Beranoaguirre, A., García De Madinabeitia, S., Sanchez Lorda, M.E., Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2020. U-Pb, Hf isotope and REE constraints on high-pressure acid migmatites from the Cabo Ortegal Complex (NW Spain): New evidence of short-duration metamorphism in a Variscan subduction channel. Lithos 372–373, 105660. https://doi.org/10.1016/j.lithos.2020.105660 ``high-P granulites, Bacariza granulites, dating``
 
