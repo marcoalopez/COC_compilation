@@ -2,10 +2,12 @@
 
 by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/)
 
-The following compilation is a comprehensive list of sources relating to the high P units of the Cabo Ortegal Complex. It is arranged chronologically and divided into 5 different sections. The studies have different tags to facilitate the search by topic/keyword.
+The following compilation is a comprehensive list of sources relating to the high pressure high temperature units of the Cabo Ortegal Complex (a.k.a. the Upper Tectonic Unit). It is arranged chronologically and divided into 5 different sections. The studies have different tags to facilitate the search by topic/keyword.
 
 > [!IMPORTANT]
 > If you find a missing study or an error/typo, open an issue [here](https://github.com/marcoalopez/COC_compilation/issues) or send me an email and I will update the reference list.
+
+[TOC]
 
 ## Regular papers (1961-today)
 
