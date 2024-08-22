@@ -1,4 +1,4 @@
-# Cabo Ortegal complex high-P units bibliography
+# Cabo Ortegal complex high-P high-T units bibliography
 
 by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/)
 
@@ -17,7 +17,7 @@ den Tex, E. 1961. Some preliminary results of petrological work in Galicia (N.W.
 
 den Tex, E., Vogel, D.E., 1962. A “Granulitgebirge” at Cabo Ortegal (N.W. Spain). Geol Rundsch 52, 95–112. https://doi.org/10.1007/BF01840066
 
-Vogel, D. E. 1967. Petrology of an eclogite- and pyrigarnite-bearing polymetamorphic rock complex at Cabo Ortegal, NW Spain. Leidse Geologische Mededelingen, *40*(1), 121–213. https://repository.naturalis.nl/pub/505641
+Vogel, D. E. 1967. Petrology of an eclogite- and pyrigarnite-bearing polymetamorphic rock complex at Cabo Ortegal, NW Spain. Leidse Geologische Mededelingen, *40*(1), 121–213. https://repository.naturalis.nl/pub/505641 
 
 Maaskant, P. 1970. Chemical petrology of polymetamorphic ultramafic rocks from Galicia, NW Spain. Leidse Geologische Mededelingen, *45*(1), 237–281. https://repository.naturalis.nl/pub/505696
 
