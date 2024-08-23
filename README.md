@@ -1,4 +1,4 @@
-# Cabo Ortegal complex high-P high-T units bibliography
+# Cabo Ortegal complex high-_P_ high-_T_ units bibliography
 
 by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/)
 
@@ -11,13 +11,15 @@ The following compilation is a comprehensive list of sources relating to the hig
 
 ## Regular papers (1961-today)
 
-### 1970s
+### 1960s
 
 den Tex, E. 1961. Some preliminary results of petrological work in Galicia (N.W. Spain). Leidse Geologische Mededelingen, *26*(1), 75–91. https://repository.naturalis.nl/pub/505836
 
 den Tex, E., Vogel, D.E., 1962. A “Granulitgebirge” at Cabo Ortegal (N.W. Spain). Geol Rundsch 52, 95–112. https://doi.org/10.1007/BF01840066
 
 Vogel, D. E. 1967. Petrology of an eclogite- and pyrigarnite-bearing polymetamorphic rock complex at Cabo Ortegal, NW Spain. Leidse Geologische Mededelingen, *40*(1), 121–213. https://repository.naturalis.nl/pub/505641 
+
+### 1970s
 
 Maaskant, P. 1970. Chemical petrology of polymetamorphic ultramafic rocks from Galicia, NW Spain. Leidse Geologische Mededelingen, *45*(1), 237–281. https://repository.naturalis.nl/pub/505696
 
@@ -33,8 +35,8 @@ van Calsteren, P.W.C., Boelrijk, N.A.I.M., Hebeda, E.H., Priem, H.N.A., den Tex,
 
 ### 1980s
 
-Drury, S. A . 1980 The geochemistry of high-pressure gneisses from Cabo Ortega! (NW Spain):
-residues of deep anatexis - Geol. Mijnbouw 59: 61-64. ``high-P granulites, geochemistry``
+Drury, S. A., 1980. The geochemistry of high-pressure gneisses from Cabo Ortega! (NW Spain):
+residues of deep anatexis. Geol. Mijnbouw 59, 61-64. ``high-P granulites, geochemistry``
 
 Bernard-Griffiths, J., Peucat, J.-J., Cornichet, J., Iglésias Ponce de Léon, M., Gil Ibarguchi, J.I., 1985. Pb, Nd Isotope and REE geochemistry in eclogites from the Cabo Ortegal Complex, Galicia, Spain: An example of REE immobility conserving MORB-like patterns during high-grade metamorphism. Chemical Geology: Isotope Geoscience section 52, 217–225. https://doi.org/10.1016/0168-9622(85)90019-3 ``eclogites, geochemistry``
 
@@ -49,6 +51,8 @@ Peucat, J.J., Bernard-Griffiths, J., Gil Ibarguchi, J.I., Dallmeyer, R.D., Menot
 Gil Ibarguchi, J.I., Mendia, M., Girardeau, J., 1991. Mg- and Cr-rich staurolite and Cr-rich kyanite in high-pressure ultrabasic rocks (Cabo Ortegal, northwestern Spain). American Mineralogist 76 (3-4): 501–511. ``Ky-bearing eclogites``
 
 Girardeau, J., Gil Ibarguchi, J.I., 1991. Pyroxenite-Rich Peridotites of the Cabo Ortegal Complex (Northwestern Spain): Evidence for Large-Scale Upper-Mantle Heterogeneity. Journal of Petrology Special Volume, 135–154. https://doi.org/10.1093/petrology/Special_Volume.2.135 ``mantle, peridotite, pyroxenite, geochemistry``
+
+Madon, M. Gil Ibarguchi, J.I. Via, J. Girardeau, J. 1991. Characterization and thermodynamic properties of andradite, Ca3Fe2Si3O12. American Mineralogist 76, 1249–1260 ``pyroxenites, andradite``
 
 Ábalos, B., Mendía, M., Gil Ibarguchi, J.I., 1994. Structure of the Cabo Ortegal eclogite-facies zone (NW Iberia). C.R. Acad. Sci. Paris 319, 1231-1238. ``eclogite, thermobarometry``
 
@@ -88,7 +92,7 @@ Puelles, P., Mulchrone, K.F., Ábalos, B., Gil Ibarguchi, J.I., 2005. Structural
 
 Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2007. Microstructural evidences for thermal runaway and deep palaeoseismic activity (Cabo Ortegal, NW Spain). Terra Nova 19, 219–224. https://doi.org/10.1111/j.1365-3121.2007.00738.x ``deformation, palaeoseismicity``
 
-Pereira, M.D., Peinado, M., Blanco, J.A., Yenes, M., 2008. Geochemical characterization of serpentinites at Cabo Ortegal, northwestern Spain. The Canadian Mineralogist 46, 317–327. https://doi.org/10.3749/canmin.46.2.317 ``mantle, serpentines``
+Pereira, M.D., Peinado, M., Blanco, J.A., Yenes, M., 2008. Geochemical characterization of serpentinites at Cabo Ortegal, northwestern Spain. The Canadian Mineralogist 46, 317–327. https://doi.org/10.3749/canmin.46.2.317 ``mantle, serpentinites``
 
 Brown, D., Llana-Funez, S., Carbonell, R., Alvarez-Marron, J., Marti, D., Salisbury, M., 2009. Laboratory measurements of P-wave and S-wave velocities across a surface analog of the continental crust–mantle boundary: Cabo Ortegal, Spain. Earth and Planetary Science Letters 285, 27–38. https://doi.org/10.1016/j.epsl.2009.05.032 ``seismic properties``
 
@@ -168,7 +172,7 @@ Ordoñez Casado, B. (1998) Geochronological studies of the Pre-Mesozoic basement
 
 Moreno, T. (1999). Platinum-group elements and chromite mineralization in ultramafic rocks: a case study from the Cabo Ortegal Complex, NW Spain. PhD thesis, Cardiff University, 224. ``mantle, chromitites``
 
-Mendía, M.S. (2000) Petrología de la unidad eclogítica del Complejo de Cabo Ortegal (NW de España). Serie Nova Terra 16, 424 pp. (PhD thesis, Univ. del País Vasco, Bilbao, 463 pp. presented in 1996). ``eclogites, deformation, petrology, thermobarometry``
+Mendía, M. S. (2000) Petrología de la unidad eclogítica del Complejo de Cabo Ortegal (NW de España). Serie Nova Terra 16, 424 pp. (PhD thesis, Univ. del País Vasco, Bilbao, 463 pp. presented in 1996). ``eclogites, deformation, petrology, thermobarometry``
 
 Azcárraga, J. (2000) Evolución tectónica y metamórfica de los mantos inferiores de grado alto y alta presión del Complejo de Cabo Ortegal. Serie Nova Terra 17, xx pp. (PhD thesis, Univ. del País Vasco, Bilbao, 463 pp. presented in 1998). ``high-P units, Candelaria & Agüdo granulites, deformation, Carreiro shear zone``
 
@@ -176,9 +180,9 @@ Puelles Olarte P. (2004) Deformación, metamorfismo y exhumación de las granuli
 
 García Izquierdo B. (2011) Evolución geodinámica y procesos mantélicos en el Macizo de Herbeira complejo de Cabo Ortegal (NO de la Península Ibérica).  Serie Nova Terra 39, 361 pp. (PhD thesis, Universidad Complutense de Madrid, Madrid presented in 2005). ``mantle, peridotites, petrology, deformation, CPO, model``
 
-Albert Roper, R (2017) The Eclogitic Gneisses of the Cabo Ortegal Complex: Provenance and tectonothermal evolution. Serie Nova Terra 48, 335 pp. (PhD thesis, Univ. Complutense de Madrid, Madrid, presented in 2016). ``high-P gneiss, banded gneisses, provenance``
+Albert, R. (2017) The Eclogitic Gneisses of the Cabo Ortegal Complex: Provenance and tectonothermal evolution. Serie Nova Terra 48, 335 pp. (PhD thesis, Univ. Complutense de Madrid, Madrid, presented in 2016). ``high-P gneiss, banded gneisses, provenance``
 
-Tilhac R (2017) Petrology and geochemistry of Pyroxenites from the Cabo Ortegal Complex, Spain. PhD thesis, Macquarie University, 230 pp. ``mantle, pyroxenites, petrology, geochemistry``
+Tilhac, R. (2017) Petrology and geochemistry of Pyroxenites from the Cabo Ortegal Complex, Spain. PhD thesis, Macquarie University, 230 pp. ``mantle, pyroxenites, petrology, geochemistry``
 
 ## Others
 
