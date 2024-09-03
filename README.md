@@ -128,11 +128,13 @@ Beranoaguirre, A., Garcia De Madinabeitia, S., Sanchez-Lorda, M.E., Puelles, P.,
 
 Spránitz, T., Szabó, C., Gilio, M., Alvaro, M., Blažeková, M., Konečný, P., Váczi, T., Berkesi, M., 2023. Estimation of P-T entrapment conditions of a subduction fluid using elastic thermobarometry: A case study from Cabo Ortegal Complex, Spain. Lithos 448–449, 107171. https://doi.org/10.1016/j.lithos.2023.107171 ``high-P granulites, Bacariza granulites, thermobarometry``
 
-## Papers in spanish
+## Papers in spanish or french
 
 Marcos, A., Marquínez, J., Pérez-Estaún, A., Pulgar, J.A., Bastida, F. 1984. Nuevas aportaciones  al conocimiento de la evolución tectonometamórfica del Complejo de Cabo Ortegal (NW de  España). Cuadernos do Laboratorio Xeolóxico de Laxe, 7, 125-137. http://hdl.handle.net/2183/5867
 
 Basterra, R., Cassi, J.M., Pérez San Roman, L., Tascón, A., and Gil Ibarguchi, J.I., 1989. Evolución metamórfica de las rocas pelíticas y semipelíticas de las formaciones “Banded Gneisses” y “Gneises de Cariño” (Cabo Ortegal, NW España): Studia Geologica Salmanticensia, v. 4, p. 131–144. ``high-P gneiss, petrology``
+
+Girardeau, J., Gil Ibarguchi, José I., Ben Jamaa, N., 1990. Les peridotites et pyroxenites du complexe catazonal du Cabo Ortegal. Cadernos do Laboratorio Xeolóxico de Laxe 15, 227-256 http://hdl.handle.net/2183/6062 ``peridotites, pyroxenites, deformation, CPO``
 
 Valverde Vaquero, P., Fernández, F.J., 1996. Edad de enfriamiento U/Pb en rutilos del Gneis de Chímparra (Cabo Ortegal, NO de España). Geogaceta 20, 475-478 https://hdl.handle.net/10651/73974 ``high-P gneiss, Chímparra gneiss, dating``
 
