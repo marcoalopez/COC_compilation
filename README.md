@@ -140,7 +140,7 @@ Valverde Vaquero, P., Fernández, F.J., 1996. Edad de enfriamiento U/Pb en rutil
 
 Fernández, F.J., Marcos, A., 1997. Datos Geoquímicos de los gneises de Chímparra y consideraciones sobre el Origen de los gneises cuarzofeldespáticos del complejo de Cabo Ortegal (NW de España). Conference: XIV Reunião de Geologia do Oeste Peninsula ``high-P gneiss, Chímparra gneiss, geochemistry``
 
-Ábalos, B., Gil Ibarguchi, J.I., Mendía, M.S., 2001. Evolución metamórfica P-T-d-t- y significado geodinámico de la unidad eclogítica del complejo de Cabo Ortegal (NO de España).  Cadernos do Laboratorio Xeolóxico de Laxe 26, 155-178. ``eclogites, petrology``
+Mendía, M., Gil Ibarguchi, J.I., Ábalos, B. 2001. Evolución metamórfica P-T-d-t- y significado geodinámico de la unidad eclogítica del complejo de Cabo Ortegal (NO de España).  Cadernos do Laboratorio Xeolóxico de Laxe 26, 155-178 http://hdl.handle.net/2183/6534 ``eclogites, petrology``
 
 García Izquierdo, B., Capote, R., Lunar López, R. 2011. La fábrica del olivino y las condiciones de la deformación de las rocas ultramáficas del Macizo de Herbeira (Cabo Ortegal, NO del Macizo Ibérico).  Revista de la Sociedad Geológica de España 24, 135-151 https://sge.usal.es/archivos/REV/24(1-2)/art08.pdf ``mantle, CPO``
 
