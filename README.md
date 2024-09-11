@@ -128,7 +128,9 @@ Beranoaguirre, A., Garcia De Madinabeitia, S., Sanchez-Lorda, M.E., Puelles, P.,
 
 Spránitz, T., Szabó, C., Gilio, M., Alvaro, M., Blažeková, M., Konečný, P., Váczi, T., Berkesi, M., 2023. Estimation of P-T entrapment conditions of a subduction fluid using elastic thermobarometry: A case study from Cabo Ortegal Complex, Spain. Lithos 448–449, 107171. https://doi.org/10.1016/j.lithos.2023.107171 ``high-P granulites, Bacariza granulites, thermobarometry``
 
-## Papers in spanish or french
+## Papers, memoirs or chapters in spanish or french
+
+Vogel, D.E., Engels, J.P., den Tex, E. 1984. El complejo de Cabo Ortegal. Geología de España Tomo I: Libro Jubilar J.M. Ríos 440-449. ``high-P units``
 
 Marcos, A., Marquínez, J., Pérez-Estaún, A., Pulgar, J.A., Bastida, F. 1984. Nuevas aportaciones  al conocimiento de la evolución tectonometamórfica del Complejo de Cabo Ortegal (NW de  España). Cuadernos do Laboratorio Xeolóxico de Laxe, 7, 125-137. http://hdl.handle.net/2183/5867
 
@@ -142,11 +144,11 @@ Fernández, F.J., Marcos, A., 1997. Datos Geoquímicos de los gneises de Chímpa
 
 Mendía, M., Gil Ibarguchi, J.I., Ábalos, B. 2001. Evolución metamórfica P-T-d-t- y significado geodinámico de la unidad eclogítica del complejo de Cabo Ortegal (NO de España).  Cadernos do Laboratorio Xeolóxico de Laxe 26, 155-178 http://hdl.handle.net/2183/6534 ``eclogites, petrology``
 
+Ábalos, B., Grassi, K.G., Fountain, D.M., Gil Ibarguchi, J.I., 2004. Geología Estructural, Petrofábrica y Petrofísica de las Eclogitas de Cabo Ortegal (NO de España). Serie Nova Terra 24. ``seismic properties, deformation``
+
 García Izquierdo, B., Capote, R., Lunar López, R. 2011. La fábrica del olivino y las condiciones de la deformación de las rocas ultramáficas del Macizo de Herbeira (Cabo Ortegal, NO del Macizo Ibérico).  Revista de la Sociedad Geológica de España 24, 135-151 https://sge.usal.es/archivos/REV/24(1-2)/art08.pdf ``mantle, CPO``
 
 ## Reviews
-
-Vogel, D.E., Engels, J.P., den Tex, E. 1984. El complejo de Cabo Ortegal. Geología de España Tomo I: Libro Jubilar J.M. Ríos 440-449. ``high-P units``
 
 Marcos, A., Farias, P., Galán, G., Fernández, F.J., Llana-Fúnez, S., 2002. Tectonic framework of the Cabo Ortegal Complex: A slab of lower crust exhumed in the Variscan orogen (northwestern Iberian Peninsula), in: Variscan-Appalachian Dynamics: The Building of the Late Paleozoic Basement. Geological Society of America. https://doi.org/10.1130/0-8137-2364-7.143 ``high-P units, deformation, tectonic model``
 
@@ -182,13 +184,13 @@ Puelles Olarte P. (2004) Deformación, metamorfismo y exhumación de las granuli
 
 García Izquierdo B. (2011) Evolución geodinámica y procesos mantélicos en el Macizo de Herbeira complejo de Cabo Ortegal (NO de la Península Ibérica).  Serie Nova Terra 39, 361 pp. (PhD thesis, Universidad Complutense de Madrid, Madrid presented in 2005). ``mantle, peridotites, petrology, deformation, CPO, model``
 
+Beranoaguirre (2016) Development of new analytical procedures of isotope geochemistry by mass spectrometry. Application to the study of high-pressure metamorphic rocks from the Iberian Massif. PhD thesis, Universidad del País Vasco.  http://hdl.handle.net/10810/18794
+
 Albert, R. (2017) The Eclogitic Gneisses of the Cabo Ortegal Complex: Provenance and tectonothermal evolution. Serie Nova Terra 48, 335 pp. (PhD thesis, Univ. Complutense de Madrid, Madrid, presented in 2016). ``high-P gneiss, banded gneisses, provenance``
 
 Tilhac, R. (2017) Petrology and geochemistry of Pyroxenites from the Cabo Ortegal Complex, Spain. PhD thesis, Macquarie University, 230 pp. ``mantle, pyroxenites, petrology, geochemistry``
 
-## Others
-
-Ábalos, B., Grassi, K.G., Fountain, D.M., Gil Ibarguchi, J.I., 2004. Geología Estructural, Petrofábrica y Petrofísica de las Eclogitas de Cabo Ortegal (NO de España). Serie Nova Terra 24. ``seismic properties, deformation``
+Henry, H. (2018). Mantle Pyroxenites: Deformation and Seismic Properties. Earth Sciences. Université Toulouse 3 Paul Sabatier (UT3 Paul Sabatier) https://theses.hal.science/tel-01882194 ``CPO, pyroxenites, peridotites``
 
 
 ---
