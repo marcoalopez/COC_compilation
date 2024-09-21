@@ -40,6 +40,8 @@ residues of deep anatexis. Geol. Mijnbouw 59, 61-64. ``high-P granulites, geoche
 
 Bernard-Griffiths, J., Peucat, J.-J., Cornichet, J., Iglésias Ponce de Léon, M., Gil Ibarguchi, J.I., 1985. Pb, Nd Isotope and REE geochemistry in eclogites from the Cabo Ortegal Complex, Galicia, Spain: An example of REE immobility conserving MORB-like patterns during high-grade metamorphism. Chemical Geology: Isotope Geoscience section 52, 217–225. https://doi.org/10.1016/0168-9622(85)90019-3 ``eclogites, geochemistry``
 
+Kuijper, R.P., Vogel, D.E., Den Tex, E., 1985. Eclogite-plagiopyrigarnite relations in the catazonal complexes of northwest Spain. Chemical Geology 50, 163–171. https://doi.org/10.1016/0009-2541(85)90118-4
+
 Girardeau, J., Gil Ibarguchi, J.I., Jamaa, N.B., 1989. Evidence for a Heterogeneous Upper Mantle in the Cabo Ortegal Complex, Spain. Science 245, 1231–1233. https://doi.org/10.1126/science.245.4923.1231 ``mantle, peridotite, pyroxenite``
 
 ### 1990s
