@@ -54,6 +54,8 @@ Girardeau, J., Gil Ibarguchi, J.I., 1991. Pyroxenite-Rich Peridotites of the Cab
 
 Madon, M. Gil Ibarguchi, J.I. Via, J. Girardeau, J. 1991. Characterization and thermodynamic properties of andradite, Ca3Fe2Si3O12. American Mineralogist 76, 1249–1260 ``pyroxenites, andradite``
 
+Schäfer H.J., Gebauer D., Gil Ibarguchi J.I., Peucat J.J., 1993. Ion-microprobe U-Pb zircon dating on the HP/HT Cabo Ortegal Complex (Galicia, NW Spain): preliminary results. Terra Abstracts, 5, 4, 22.
+
 Ábalos, B., Mendía, M., Gil Ibarguchi, J.I., 1994. Structure of the Cabo Ortegal eclogite-facies zone (NW Iberia). C.R. Acad. Sci. Paris 319, 1231-1238. ``eclogite, thermobarometry``
 
 Ábalos, B., Azcárraga, J., Gil Ibarguchi, J.I., Mendía, M.S., Santos Zalduegui, J.S., 1996. Flow Stress, strain rate and effective viscosity evaluation in a high‐presssure metamorphic nappe (Cabo Ortegal, Spain). Journal Metamorphic Geology 14, 227–248. https://doi.org/10.1046/j.1525-1314.1996.59012.x ``high-P units, deformation, CPO, tectonic model``
@@ -122,6 +124,8 @@ Henry, H., Tilhac, R., Griffin, W.L., O’Reilly, S.Y., Satsukawa, T., Kaczmarek
 
 Beranoaguirre, A., García De Madinabeitia, S., Sanchez Lorda, M.E., Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2020. U-Pb, Hf isotope and REE constraints on high-pressure acid migmatites from the Cabo Ortegal Complex (NW Spain): New evidence of short-duration metamorphism in a Variscan subduction channel. Lithos 372–373, 105660. https://doi.org/10.1016/j.lithos.2020.105660 ``high-P granulites, Bacariza granulites, dating``
 
+Tilhac, R., Oliveira, B., Griffin, W.L., O’Reilly, S.Y., Schaefer, B.F., Alard, O., Ceuleneer, G., Afonso, J.C., Grégoire, M., 2020. Reworking of old continental lithosphere: Unradiogenic Os and decoupled Hf Nd isotopes in sub-arc mantle pyroxenites. Lithos 354–355, 105346. https://doi.org/10.1016/j.lithos.2019.105346
+
 Spránitz, T., Padrón‐Navarta, J.A., Szabó, C., Szabó, Á., Berkesi, M., 2022. Abiotic passive nitrogen and methane enrichment during exhumation of subducted rocks: Primary multiphase fluid inclusions in high‐pressure rocks from the Cabo Ortegal Complex, NW Spain. Journal Metamorphic Geology 40, 1291–1319. https://doi.org/10.1111/jmg.12666 ``mantle, high-P granulites, eclogites, fluid inclusion``
 
 Beranoaguirre, A., Garcia De Madinabeitia, S., Sanchez-Lorda, M.E., Puelles, P., Abalos, B., Gil-Ibarguchi, J.I., 2022. Geochemical dataset of high-pressure acid migmatites from the Cabo Ortegal Complex (NW Spain). Data in Brief 40, 107823. https://doi.org/10.1016/j.dib.2022.107823 ``high-P granulites, Bacariza granulites, thermobarometry, geochemistry``
@@ -158,7 +162,7 @@ García-Tudela, M., Proenza, J.A., Farré-de-Pablo, J., Pujol-Solà, N., Aiglspe
 
 Ben Jamaa, N. (1988) Les peridotites de Bay of Islands (terre Neuve) et de Cap Ortegal (Espagne): approche petro-structurale. Thése Univ. Paris VII; 245 pp. ``mantle, peridotites``
 
-Monterrubio Pérez, S. (1991). Mineralizaciones asociadas a rocas ultrabásicas en el Hercínico español. PhD thesis, Universidad Complutense de Madrid. ``mantle, chromitites``
+Monterrubio Pérez, S. (1991). Mineralizaciones asociadas a rocas ultrabásicas en el Hercínico español. PhD thesis, Universidad Complutense de Madrid. https://hdl.handle.net/20.500.14352/62979 ``mantle, chromitites``
 
 Laribi-Halimi, A (1992). Relations géochimiques dans les péridotites et pyroxénites du Cabo Ortegal (Espagne): Application de l'analyse par activation neutronique. Thése, Univ. Paris VI - I.P.G.P., 144 pp. ``mantle, peridotite, pyroxenites``
 
@@ -191,6 +195,14 @@ Albert, R. (2017) The Eclogitic Gneisses of the Cabo Ortegal Complex: Provenance
 Tilhac, R. (2017) Petrology and geochemistry of Pyroxenites from the Cabo Ortegal Complex, Spain. PhD thesis, Macquarie University, 230 pp. ``mantle, pyroxenites, petrology, geochemistry``
 
 Henry, H. (2018). Mantle Pyroxenites: Deformation and Seismic Properties. Earth Sciences. Université Toulouse 3 Paul Sabatier (UT3 Paul Sabatier) https://theses.hal.science/tel-01882194 ``CPO, pyroxenites, peridotites``
+
+## Geological Maps
+
+Fernández Pompa, F., Monteserín López, V. 1972. Mapa geológico de la Hoja nº 7 (Cedeira). Mapa Geológico de España E. 1:50.000. Segunda Serie (MAGNA), Primera edición. IGME. Depósito Legal: M-37.594-1976
+
+Fernández Pompa, F., Fernández-Martínez, F. 1974. Mapa geológico de la Hoja nº 1 (Cariño). Mapa Geológico de España E. 1:50.000. Segunda Serie (MAGNA), Primera edición. IGME. Depósito Legal: M-848 -1977
+
+Bastida F., Marcos A., Marquínez J., Martínez Catalán J.R., Pérez-Estaún A., Pulgar J.A., 1984. Mapa Geológico y Memoria de la Hoja nº 1 (La Coruña). Mapa Geológico de España E. 1:200.000, ITGE, 155 pp. Depósito Legal: M-21.597-1984
 
 
 ---
