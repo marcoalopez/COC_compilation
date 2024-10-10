@@ -206,11 +206,13 @@ Henry, H. (2018). Mantle Pyroxenites: Deformation and Seismic Properties. Earth 
 
 ## Geological Maps
 
-Fernández Pompa, F., Monteserín López, V. 1972. Mapa geológico de la Hoja nº 7 (Cedeira). Mapa Geológico de España E. 1:50.000. Segunda Serie (MAGNA), Primera edición. IGME. Depósito Legal: M-37.594-1976
+Fernández Pompa, F., Monteserín López, V. 1972. Mapa geológico de la Hoja nº 7 (Cedeira). Mapa Geológico de España E. 1:50.000. Segunda Serie (MAGNA), Primera edición. IGME. Depósito Legal: M-37.594-1976 https://info.igme.es/cartografiadigital/datos/magna50/jpgs/d0_G50/Editado_MAGNA50_7.jpg
 
-Fernández Pompa, F., Fernández-Martínez, F. 1974. Mapa geológico de la Hoja nº 1 (Cariño). Mapa Geológico de España E. 1:50.000. Segunda Serie (MAGNA), Primera edición. IGME. Depósito Legal: M-848 -1977
+Fernández Pompa, F., Fernández-Martínez, F. 1974. Mapa geológico de la Hoja nº 1 (Cariño). Mapa Geológico de España E. 1:50.000. Segunda Serie (MAGNA), Primera edición. IGME. Depósito Legal: M-848 -1977 https://info.igme.es/cartografiadigital/datos/magna50/jpgs/d0_G50/Editado_MAGNA50_1.jpg
 
-Bastida F., Marcos A., Marquínez J., Martínez Catalán J.R., Pérez-Estaún A., Pulgar J.A., 1984. Mapa Geológico y Memoria de la Hoja nº 1 (La Coruña). Mapa Geológico de España E. 1:200.000, ITGE, 155 pp. Depósito Legal: M-21.597-1984
+Bastida F., Marcos A., Marquínez J., Martínez Catalán J.R., Pérez-Estaún A., Pulgar J.A., 1984. Mapa Geológico y Memoria de la Hoja nº 1 (La Coruña). Mapa Geológico de España E. 1:200.000, ITGE, 155 pp. Depósito Legal: M-21.597-1984 https://info.igme.es/cartografiadigital/datos/geologico200/jpgs/Editado1_G200.jpg
+
+Abalos, B., Azcárraga, J., Gil Ibarguchi, J. I., Mendia, M., Puelles, P. (2000). A new geological map of the high-grade/high-pressure allochthonous units of the Cabo Ortegal Complex (NW Spain). In: Variscan-Appalachian Dynamics: the Building of the Upper Paleozoic Basement. Basement Tectonics 15, La Coruña, Spain, Abstract Volume, pp. 183-184.
 
 
 ---
