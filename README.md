@@ -140,6 +140,8 @@ Beranoaguirre, A., Garcia De Madinabeitia, S., Sanchez-Lorda, M.E., Puelles, P.,
 
 Spránitz, T., Szabó, C., Gilio, M., Alvaro, M., Blažeková, M., Konečný, P., Váczi, T., Berkesi, M., 2023. Estimation of P-T entrapment conditions of a subduction fluid using elastic thermobarometry: A case study from Cabo Ortegal Complex, Spain. Lithos 448–449, 107171. https://doi.org/10.1016/j.lithos.2023.107171 ``high-P granulites, Bacariza granulites, thermobarometry``
 
+Beranoaguirre, A., Ábalos, B., García De Madinabeitia, S., Paquette, J.-L., Pin, C., Sánchez Lorda, M.E., Santos Zalduegui, J.F., Puelles, P., Gil Ibarguchi, J.I., 2022. Geochronological record of Cadomian exterior orogen reworking in bi-modal igneous protoliths of the Cabo Ortegal Allochthon (NW Iberia): the Cambrian onset of the Palaeozoic plate-tectonic cycle. International Geology Review 66, 310–335. https://doi.org/10.1080/00206814.2022.2089923
+
 ## Papers, memoirs or chapters in spanish or french
 
 Vogel, D.E., Engels, J.P., den Tex, E. 1984. El complejo de Cabo Ortegal. Geología de España Tomo I: Libro Jubilar J.M. Ríos 440-449. ``high-P units``
