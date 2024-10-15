@@ -130,17 +130,17 @@ Henry, H., Tilhac, R., Griffin, W.L., O’Reilly, S.Y., Satsukawa, T., Kaczmarek
 
 ### 2020s
 
-Beranoaguirre, A., García De Madinabeitia, S., Sanchez Lorda, M.E., Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2020. U-Pb, Hf isotope and REE constraints on high-pressure acid migmatites from the Cabo Ortegal Complex (NW Spain): New evidence of short-duration metamorphism in a Variscan subduction channel. Lithos 372–373, 105660. https://doi.org/10.1016/j.lithos.2020.105660 ``high-P granulites, Bacariza granulites, dating``
+Beranoaguirre, A., García De Madinabeitia, S., Sanchez Lorda, M.E., Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2020. U-Pb, Hf isotope and REE constraints on high-pressure acid migmatites from the Cabo Ortegal Complex (NW Spain): New evidence of short-duration metamorphism in a Variscan subduction channel. Lithos 372–373, 105660. https://doi.org/10.1016/j.lithos.2020.105660 ``high-P granulites, Bacariza granulites, isotopic dating``
 
 Tilhac, R., Oliveira, B., Griffin, W.L., O’Reilly, S.Y., Schaefer, B.F., Alard, O., Ceuleneer, G., Afonso, J.C., Grégoire, M., 2020. Reworking of old continental lithosphere: Unradiogenic Os and decoupled Hf Nd isotopes in sub-arc mantle pyroxenites. Lithos 354–355, 105346. https://doi.org/10.1016/j.lithos.2019.105346
 
-Spránitz, T., Padrón‐Navarta, J.A., Szabó, C., Szabó, Á., Berkesi, M., 2022. Abiotic passive nitrogen and methane enrichment during exhumation of subducted rocks: Primary multiphase fluid inclusions in high‐pressure rocks from the Cabo Ortegal Complex, NW Spain. Journal Metamorphic Geology 40, 1291–1319. https://doi.org/10.1111/jmg.12666 ``mantle, high-P granulites, eclogites, fluid inclusion``
-
 Beranoaguirre, A., Garcia De Madinabeitia, S., Sanchez-Lorda, M.E., Puelles, P., Abalos, B., Gil-Ibarguchi, J.I., 2022. Geochemical dataset of high-pressure acid migmatites from the Cabo Ortegal Complex (NW Spain). Data in Brief 40, 107823. https://doi.org/10.1016/j.dib.2022.107823 ``high-P granulites, Bacariza granulites, thermobarometry, geochemistry``
 
-Spránitz, T., Szabó, C., Gilio, M., Alvaro, M., Blažeková, M., Konečný, P., Váczi, T., Berkesi, M., 2023. Estimation of P-T entrapment conditions of a subduction fluid using elastic thermobarometry: A case study from Cabo Ortegal Complex, Spain. Lithos 448–449, 107171. https://doi.org/10.1016/j.lithos.2023.107171 ``high-P granulites, Bacariza granulites, thermobarometry``
+Beranoaguirre, A., Ábalos, B., García De Madinabeitia, S., Paquette, J.-L., Pin, C., Sánchez Lorda, M.E., Santos Zalduegui, J.F., Puelles, P., Gil Ibarguchi, J.I., 2022. Geochronological record of Cadomian exterior orogen reworking in bi-modal igneous protoliths of the Cabo Ortegal Allochthon (NW Iberia): the Cambrian onset of the Palaeozoic plate-tectonic cycle. International Geology Review 66, 310–335. https://doi.org/10.1080/00206814.2022.2089923 ``isotopic dating``
 
-Beranoaguirre, A., Ábalos, B., García De Madinabeitia, S., Paquette, J.-L., Pin, C., Sánchez Lorda, M.E., Santos Zalduegui, J.F., Puelles, P., Gil Ibarguchi, J.I., 2022. Geochronological record of Cadomian exterior orogen reworking in bi-modal igneous protoliths of the Cabo Ortegal Allochthon (NW Iberia): the Cambrian onset of the Palaeozoic plate-tectonic cycle. International Geology Review 66, 310–335. https://doi.org/10.1080/00206814.2022.2089923
+Spránitz, T., Padrón‐Navarta, J.A., Szabó, C., Szabó, Á., Berkesi, M., 2022. Abiotic passive nitrogen and methane enrichment during exhumation of subducted rocks: Primary multiphase fluid inclusions in high‐pressure rocks from the Cabo Ortegal Complex, NW Spain. Journal Metamorphic Geology 40, 1291–1319. https://doi.org/10.1111/jmg.12666 ``mantle, high-P granulites, eclogites, fluid inclusion``
+
+Spránitz, T., Szabó, C., Gilio, M., Alvaro, M., Blažeková, M., Konečný, P., Váczi, T., Berkesi, M., 2023. Estimation of P-T entrapment conditions of a subduction fluid using elastic thermobarometry: A case study from Cabo Ortegal Complex, Spain. Lithos 448–449, 107171. https://doi.org/10.1016/j.lithos.2023.107171 ``high-P granulites, Bacariza granulites, thermobarometry``
 
 ## Papers, memoirs or chapters in spanish or french
 
