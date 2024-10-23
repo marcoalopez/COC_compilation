@@ -7,6 +7,8 @@ The following compilation is a comprehensive list of sources relating to the hig
 > [!IMPORTANT]
 > If you find a missing study or an error/typo, open an issue [here](https://github.com/marcoalopez/COC_compilation/issues) or send me an email and I will update the reference list.
 
+**Acknowledgements**. We thank Sergio Llana-Fúnez, Romain Tilhac, José Ignacio Gil Ibarguchi and Benito Ábalos for their contributions and corrections.
+
 [TOC]
 
 ## Regular papers (1961-today)
@@ -46,7 +48,11 @@ Vogel, D.E., 1984. Cabo Ortegal, mantle plume or double klippe? Geologie en mijn
 
 Kuijper, R.P., Vogel, D.E., Den Tex, E., 1985. Eclogite-plagiopyrigarnite relations in the catazonal complexes of northwest Spain. Chemical Geology 50, 163–171. https://doi.org/10.1016/0009-2541(85)90118-4 ``eclogites, pyrigarnites``
 
+Aparicio, A., Sánchez Cela, V., Cacho, L. E., 1987. Petrological and geochemical considerations on the Cabo Ortegal complex (NW Spain). Revista Academia Ciencias Zaragoza, 42 , 131-162. http://hdl.handle.net/10261/2919
+
 Girardeau, J., Gil Ibarguchi, J.I., Jamaa, N.B., 1989. Evidence for a Heterogeneous Upper Mantle in the Cabo Ortegal Complex, Spain. Science 245, 1231–1233. https://doi.org/10.1126/science.245.4923.1231 ``mantle, peridotite, pyroxenite``
+
+Aparicio, A., Borshevsky, N., Novitsky, I., Sánchez Cela, V., 1989. O^18^ values of plutonic-metamorphic series at Cabo Ortegal (Northwestern Spain): petrogenetic implications. Revista Academia Ciencias Zaragoza, 44, 4183-197. http://hdl.handle.net/10261/2918
 
 ### 1990s
 
@@ -68,9 +74,13 @@ Schäfer H.J., Gebauer D., Gil Ibarguchi J.I., Peucat J.J., 1993. Ion-microprobe
 
 Santos Zalduegui, J.F., Schärer, U., Gil Ibarguchi, J.I., Girardeau, J., 1996. Origin and evolution of the Paleozoic Cabo Ortegal ultramafic-mafic complex (NW Spain): U-Pb, Rb-Sr and Pb-Pb isotope data. Chemical Geology 129, 281–304. https://doi.org/10.1016/0009-2541(95)00144-1 ``mantle, dating``
 
+Ordóñez Casado, B.; Gebauer, D.; Schafer, H. J.; Gil Ibarguchi, J.I.; Peucat, J. J., 1996. A single subduction event at ca. 392 Ma for the ultramafic-mafic HP/HT-rocks of the Cabo OrtegaI Complex. Geogaceta, 20, 2, 489-490. http://hdl.handle.net/10272/11810 ``dating``
+
 Ábalos, B., 1997. Omphacite fabric variation in the Cabo Ortegal eclogite (NW Spain): relationships with strain symmetry during high-pressure deformation. Journal of Structural Geology 19, 621–637. https://doi.org/10.1016/S0191-8141(97)00001-1 ``eclogites, deformation, CPO``
 
 Galán, G., Marcos, A., 1997. Geochemical evolution of high-pressure mafic granulites from the Bacariza formation (Cabo Ortegal complex, NW Spain): an example of a heterogeneous lower crust. Geologische Rundschau 86, 539–555. https://doi.org/10.1007/s005310050162 ``high-P granulites, Bacariza granulites, petrology``
+
+Abalos, B., Aranguren, A., 1998. Anisotropy of magnetic susceptibility of eclogites: mineralogical origin and correlation with the tectonic fabric (Cabo Ortegal, Spain). Geodinamica Acta 11, 271–283. https://doi.org/10.1080/09853111.1998.11105325
 
 Gil Ibarguchi, J.I., Ábalos, B., Azcárraga, J., Puelles, P., 1999. Deformation, high‐pressure metamorphism and exhumation of ultramafic rocks in a deep subduction/collision setting (Cabo Ortegal, NW Spain). Journal Metamorphic Geology 17, 747–764. https://doi.org/10.1046/j.1525-1314.1999.00227.x ``peridotite, deformation, petrology, garnet harzburgite, Ti-clinohumite``
 
@@ -108,6 +118,8 @@ Brown, D., Llana-Funez, S., Carbonell, R., Alvarez-Marron, J., Marti, D., Salisb
 
 Puelles, P., Ábalos, B., Gil Ibarguchi, J.I., 2009. Transposed high-pressure granulite fabrics (Cabo Ortegal, NW Spain): Implications on the scales of deformation localization. Journal of Structural Geology 31, 776–790. https://doi.org/10.1016/j.jsg.2009.05.001 ``high-P granulites, Bacariza granulites, deformation``
 
+Schmidt, A., Weyer, S., John, T., Brey, G.P., 2009. HFSE systematics of rutile-bearing eclogites: New insights into subduction zone processes and implications for the earth’s HFSE budget. Geochimica et Cosmochimica Acta 73, 455–468. https://doi.org/10.1016/j.gca.2008.10.028 ``eclogites``
+
 ### 2010s
 
 Ábalos, B., Fountain, D.M., Gil Ibarguchi, J.I., Puelles, P., 2011. Eclogite as a seismic marker in subduction channels: Seismic velocities, anisotropy, and petrofabric of Cabo Ortegal eclogite tectonites (Spain). Geological Society of America Bulletin 123, 439–456. https://doi.org/10.1130/B30226.1 ``eclogite, seismic properties, CPO``
@@ -134,33 +146,69 @@ Beranoaguirre, A., García De Madinabeitia, S., Sanchez Lorda, M.E., Puelles, P.
 
 Tilhac, R., Oliveira, B., Griffin, W.L., O’Reilly, S.Y., Schaefer, B.F., Alard, O., Ceuleneer, G., Afonso, J.C., Grégoire, M., 2020. Reworking of old continental lithosphere: Unradiogenic Os and decoupled Hf Nd isotopes in sub-arc mantle pyroxenites. Lithos 354–355, 105346. https://doi.org/10.1016/j.lithos.2019.105346
 
+Novo‐Fernández, I., Albert, R., Arenas, R., Garcia‐Casco, A., Díez Fernández, R., Sánchez Martínez, S., Gerdes, A., De Capitani, C., 2020. Reconstruction of the prograde *PT* history of high‐ *P* migmatitic paragneisses via melt‐reintegration approach and thermodynamic modelling (Allochthonous Complexes, NW Iberian Massif). Journal Metamorphic Geology 38, 629–653. https://doi.org/10.1111/jmg.12533
+
 Beranoaguirre, A., Garcia De Madinabeitia, S., Sanchez-Lorda, M.E., Puelles, P., Abalos, B., Gil-Ibarguchi, J.I., 2022. Geochemical dataset of high-pressure acid migmatites from the Cabo Ortegal Complex (NW Spain). Data in Brief 40, 107823. https://doi.org/10.1016/j.dib.2022.107823 ``high-P granulites, Bacariza granulites, thermobarometry, geochemistry``
 
 Beranoaguirre, A., Ábalos, B., García De Madinabeitia, S., Paquette, J.-L., Pin, C., Sánchez Lorda, M.E., Santos Zalduegui, J.F., Puelles, P., Gil Ibarguchi, J.I., 2022. Geochronological record of Cadomian exterior orogen reworking in bi-modal igneous protoliths of the Cabo Ortegal Allochthon (NW Iberia): the Cambrian onset of the Palaeozoic plate-tectonic cycle. International Geology Review 66, 310–335. https://doi.org/10.1080/00206814.2022.2089923 ``isotopic dating``
+
+Borisova, E.B., Baltybaev, Sh.K., Connolly, J.A.D., 2022. Staurolite in Metabasites: P–T–X Parameters and the Ratios of Major Components as Criteria of Staurolite Stability. Petrology 30, S53–S71. https://doi.org/10.1134/S0869591123010034
 
 Spránitz, T., Padrón‐Navarta, J.A., Szabó, C., Szabó, Á., Berkesi, M., 2022. Abiotic passive nitrogen and methane enrichment during exhumation of subducted rocks: Primary multiphase fluid inclusions in high‐pressure rocks from the Cabo Ortegal Complex, NW Spain. Journal Metamorphic Geology 40, 1291–1319. https://doi.org/10.1111/jmg.12666 ``mantle, high-P granulites, eclogites, fluid inclusion``
 
 Spránitz, T., Szabó, C., Gilio, M., Alvaro, M., Blažeková, M., Konečný, P., Váczi, T., Berkesi, M., 2023. Estimation of P-T entrapment conditions of a subduction fluid using elastic thermobarometry: A case study from Cabo Ortegal Complex, Spain. Lithos 448–449, 107171. https://doi.org/10.1016/j.lithos.2023.107171 ``high-P granulites, Bacariza granulites, thermobarometry``
 
-## Papers, memoirs or chapters in spanish or french
+## Non-English papers, memoirs or chapters
+
+Vogel, D. E., 1967. Las rocas catazonales de la región de Cabo Ortegal. *Leidse Geologische Mededelingen*, *36*(1), 243–254. https://repository.naturalis.nl/pub/505924
 
 Vogel, D.E., Engels, J.P., den Tex, E. 1984. El complejo de Cabo Ortegal. Geología de España Tomo I: Libro Jubilar J.M. Ríos 440-449. ``high-P units``
 
 Marcos, A., Marquínez, J., Pérez-Estaún, A., Pulgar, J.A., Bastida, F. 1984. Nuevas aportaciones  al conocimiento de la evolución tectonometamórfica del Complejo de Cabo Ortegal (NW de  España). Cuadernos do Laboratorio Xeolóxico de Laxe, 7, 125-137. http://hdl.handle.net/2183/5867
 
+Gil Ibarguchi, J.I., Ábalos, B., Campillo, A., Higuero, A., López, B., Pinilla, V., Rodríguez C., Rodríguez, R. Urtiaga, K., 1987. Asociaciones con granate-clinopiroxeno en la “unidad catazonal superior” del Complejo de Cabo Ortegal. Cuadernos del Laboratorio Geológico de Laxe, 12: 165-181. http://hdl.handle.net/2183/6006
+
 Basterra, R., Cassi, J.M., Pérez San Roman, L., Tascón, A., and Gil Ibarguchi, J.I., 1989. Evolución metamórfica de las rocas pelíticas y semipelíticas de las formaciones “Banded Gneisses” y “Gneises de Cariño” (Cabo Ortegal, NW España): Studia Geologica Salmanticensia 4, p. 131–144. ``high-P gneiss, petrology``
 
 Girardeau, J., Gil Ibarguchi, José I., Ben Jamaa, N., 1990. Les peridotites et pyroxenites du complexe catazonal du Cabo Ortegal. Cadernos do Laboratorio Xeolóxico de Laxe 15, 227-256 http://hdl.handle.net/2183/6062 ``peridotites, pyroxenites, deformation, CPO``
+
+Gil Ibarguchi, J.I., Girardeau, J., 1991. El complejo de Cabo Ortegal. Investigación y Ciencia, 180, 6-14.
+
+Azcárraga, J. y Ábalos, B., 1996. Comportamiento reológico de la Formación Candelaria y la Zona de Movimiento Tectónico de Carreiro (Cabo Ortegal, NO de España) durante el metamorfismo sintectónico eo-Hercínico de grado medio y alto. Boletín Geológico y Minero, 107: 125-144.
 
 Valverde Vaquero, P., Fernández, F.J., 1996. Edad de enfriamiento U/Pb en rutilos del Gneis de Chímparra (Cabo Ortegal, NO de España). Geogaceta 20, 475-478 https://hdl.handle.net/10651/73974 ``high-P gneiss, Chímparra gneiss, dating``
 
 Fernández, F.J., Marcos, A., 1997. Datos Geoquímicos de los gneises de Chímparra y consideraciones sobre el Origen de los gneises cuarzofeldespáticos del complejo de Cabo Ortegal (NW de España). Conference: XIV Reunião de Geologia do Oeste Peninsula ``high-P gneiss, Chímparra gneiss, geochemistry``
 
+Azcárraga, J. y Ábalos, B., 1997. Estructura y cinemática de la Zona de Movimiento Tectónico de Carreiro y unidades adyacentes, Cabo Ortegal (NO de España). Geogaceta, 22: 27-30. http://hdl.handle.net/10272/10549
+
+Ábalos, B., Gil Ibarguchi, J.I. y Azcárraga, J., 1998. Análisis petroestructural de las peridotitas asociadas a la Zona de Movimiento Tectónico de Carreiro (Complejo de Cabo Ortegal, NO de España). Boletín Geológico y Minero, 109: 53-68.
+
+Moreno, T., Lunar, R., Prichard, H.M., Gibbons, W., 2000. Caracterización geoquímica y distribución de la mineralización de Cr y EGP en los macizos ultramáficos de Cabo Ortegal (NO España). Geotemas, 1, 4, 47-50
+
+Puelles, P., Ábalos, B., y Gil Ibarguchi, J.I., 2001. Rasgos estructurales de la formación granulítica de alta presión de la Bacariza (Cabo Ortegal, NO España). Geogaceta 30: 115-118. https://sge.usal.es/archivos/geogacetas/Geo30/Art30.pdf
+
 Mendía, M., Gil Ibarguchi, J.I., Ábalos, B. 2001. Evolución metamórfica P-T-d-t- y significado geodinámico de la unidad eclogítica del complejo de Cabo Ortegal (NO de España).  Cadernos do Laboratorio Xeolóxico de Laxe 26, 155-178 http://hdl.handle.net/2183/6534 ``eclogites, petrology``
+
+Puelles, P., Ábalos, B. y Gil Ibarguchi, J.I., 2003. Organización interna de unidades de alta presión en dominios tectónicos profundos (Complejo de Cabo Ortegal, NO España). Geogaceta 34: 3-6. https://sge.usal.es/archivos/geogacetas/Geo34/Art01.pdf
 
 Ábalos, B., Grassi, K.G., Fountain, D.M., Gil Ibarguchi, J.I., 2004. Geología Estructural, Petrofábrica y Petrofísica de las Eclogitas de Cabo Ortegal (NO de España). Serie Nova Terra 24. ``seismic properties, deformation``
 
+Mendia, M., Gil Ibarguchi, J.I., 2005. Petrografía y condiciones de formación de las rocas ultramáficas con granate asociadas a las eclogitas de Cabo Ortegal. Geogaceta 37, 31-34. https://sge.usal.es/archivos/geogacetas/Geo37/Geo37-8.pdf
+
+Puelles, P., Ábalos, B. y Gil Ibarguchi, J.I., 2006. Ultramilonitas de apariencia fluidal, pseudotaquilitas o algo intermedio? (Formación Bacariza, Cabo Ortegal). Geogaceta: 40: 111-114. https://sge.usal.es/archivos/geogacetas/Geo40/Geo40-28.pdf
+
+Puelles, P. y Ábalos, B., 2008. Fábricas sin-metamórficas, mecanismos y régimen de la deformación en las granulitas de alta presión de Cabo Ortegal (NO España). Geogaceta: 45: 15-18. https://sge.usal.es/archivos/geogacetas/Geo45/art04.pdf
+
+Fernández, F.J., 2009. Fábricas sin-metamórficas, mecanismos y régimen de la deformación en las granulitas de alta presión de Cabo Ortegal (NO de España): Comentario. Geogaceta, 46, 175-176. https://sge.usal.es/archivos/geogacetas/geo46/art44debates.pdf
+
+Puelles, P. y Ábalos, B., 2009. Fábricas sin-metamórficas, mecanismos y régimen de la deformación en las granulitas de alta presión de Cabo Ortegal (NO España): Réplica. Geogaceta: 46: 177-178. https://sge.usal.es/archivos/geogacetas/geo46/art45debates.pdf
+
+Puelles, P., 2009. Fábricas y mecanismos deformacionales en las granulitas de alta presión de la Formación Bacariza (Complejo de Cabo Ortegal, NO España). Boletín Geológico y Minero, 120: 31-44. https://web.igme.es/Boletin/2009/120_1_2009/ARTICULO%203.pdf
+
 García Izquierdo, B., Capote, R., Lunar López, R. 2011. La fábrica del olivino y las condiciones de la deformación de las rocas ultramáficas del Macizo de Herbeira (Cabo Ortegal, NO del Macizo Ibérico).  Revista de la Sociedad Geológica de España 24, 135-151 https://sge.usal.es/archivos/REV/24(1-2)/art08.pdf ``mantle, CPO``
+
+Spránitz, T., Szabó, C., Józsa, S., Berkesi, M., 2021. Retrográd metamorfózishoz kapcsolódó fluidumok egy variszkuszi szubdukciós csatornában: fluidumzárvány-vizsgálatok a Cabo Ortegal Komplexum ultrabázisos kőzeteiben. Földt. Közl. 151, 121. https://doi.org/10.23928/foldt.kozl.2021.151.2.121
 
 ## Reviews
 
@@ -171,6 +219,8 @@ García-Tudela, M., Proenza, J.A., Farré-de-Pablo, J., Pujol-Solà, N., Aiglspe
 ## Master and doctoral thesis
 
 Ben Jamaa, N. (1988) Les peridotites de Bay of Islands (terre Neuve) et de Cap Ortegal (Espagne): approche petro-structurale. Thése Univ. Paris VII; 245 pp. ``mantle, peridotites``
+
+Fernández Rodríguez, F. J., 1990. Estudio geológico de la Península de Masanteo, Cabo Ortegal (La Coruña). Tesis de Licenciatura, Universidad de Oviedo, 44 pp. + mapas ``Banded gneises``
 
 Monterrubio Pérez, S. (1991). Mineralizaciones asociadas a rocas ultrabásicas en el Hercínico español. PhD thesis, Universidad Complutense de Madrid. https://hdl.handle.net/20.500.14352/62979 ``mantle, chromitites``
 
@@ -206,7 +256,13 @@ Tilhac, R. (2017) Petrology and geochemistry of Pyroxenites from the Cabo Ortega
 
 Henry, H. (2018). Mantle Pyroxenites: Deformation and Seismic Properties. Earth Sciences. Université Toulouse 3 Paul Sabatier (UT3 Paul Sabatier) https://theses.hal.science/tel-01882194 ``CPO, pyroxenites, peridotites``
 
-## Geological Maps
+García Tudela, M.A. (2020) Mineralogía y Geoquímica de las Cromititas del Complejo Cabo Ortegal, NW del Macizo Ibérico. MSc Thesis, Univ. Barcelona, 27 pp.
+
+Mohamed Mohamed, B. (2024) Evolución tectonotermal de piroxenitas con granate del macizo ultramáfico rico en cromititas de Herbeira. MSc Thesis, Univ. Complutense, Madrid, 46 pp. https://hdl.handle.net/20.500.14352/108254
+
+## Geological Maps and field guides
+
+Vogel, D. E., 1967. Excursions in the catazonal rock complexes of the polyorogenic terrain of Cabo Ortegal (NW Spain). *Leidse Geologische Mededelingen*, *40*(1), 75–78. https://repository.naturalis.nl/pub/505771
 
 Fernández Pompa, F., Monteserín López, V. 1972. Mapa geológico de la Hoja nº 7 (Cedeira). Mapa Geológico de España E. 1:50.000. Segunda Serie (MAGNA), Primera edición. IGME. Depósito Legal: M-37.594-1976 https://info.igme.es/cartografiadigital/datos/magna50/jpgs/d0_G50/Editado_MAGNA50_7.jpg
 
@@ -214,7 +270,13 @@ Fernández Pompa, F., Fernández-Martínez, F. 1974. Mapa geológico de la Hoja 
 
 Bastida F., Marcos A., Marquínez J., Martínez Catalán J.R., Pérez-Estaún A., Pulgar J.A., 1984. Mapa Geológico y Memoria de la Hoja nº 1 (La Coruña). Mapa Geológico de España E. 1:200.000, ITGE, 155 pp. Depósito Legal: M-21.597-1984 https://info.igme.es/cartografiadigital/datos/geologico200/jpgs/Editado1_G200.jpg
 
-Abalos, B., Azcárraga, J., Gil Ibarguchi, J. I., Mendia, M., Puelles, P. (2000). A new geological map of the high-grade/high-pressure allochthonous units of the Cabo Ortegal Complex (NW Spain). In: Variscan-Appalachian Dynamics: the Building of the Upper Paleozoic Basement. Basement Tectonics 15, La Coruña, Spain, Abstract Volume, pp. 183-184.
+Abalos, B., Azcárraga, J., Gil Ibarguchi, J. I., Mendia, M., Puelles, P., 2000. A new geological map of the high-grade/high-pressure allochthonous units of the Cabo Ortegal Complex (NW Spain). In: Variscan-Appalachian Dynamics: the Building of the Upper Paleozoic Basement. Basement Tectonics 15, La Coruña, Spain, Abstract Volume, pp. 183-184.
+
+Ábalos, B., Azcárraga, J., Gil Ibarguchi, J.I., Mendia, M. and Puelles, P., 2000. Mapa Geológico del Complejo de Cabo Ortegal (NO de España). Mapa desplegable de 68 x 58 cm y memoria explicativa de 60 p. Instituto Universitario de Xeoloxía Isidro Parga Pondal.
+
+Lunar, R., Capote, R., Izquierdo, B.G., Monterrubio, S., Moreno, T., Gibbons, W., Prichard, H., Gil Ibarguchi, J.I., Ábalos, B., Puelles, P., Santos Zalduegui, J.F., Meireles, C., Pereira, E., Castro, P.G., Ribeiro, A.A.R., Santos, J.F. and Munhá, J.M.U., 2004. Cr-PGE mineralization, petrology and tectonics of the Allochthonous Complexes of NW Spain and Portugal. Pre-Congress Field Trip Guide Book - B04. 32nd International Geological Congress. Florence (Italy, August 20-28), 48 págs.
+
+Tilhac R., Lopez-Sanchez, M. A., Llana-Fúnez, S. & Padrón-Navarta, J. A., 2024. Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://lherzolite2024.github.io/fieldguide/
 
 
 ---
