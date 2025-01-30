@@ -158,6 +158,8 @@ Spránitz, T., Padrón‐Navarta, J.A., Szabó, C., Szabó, Á., Berkesi, M., 20
 
 Spránitz, T., Szabó, C., Gilio, M., Alvaro, M., Blažeková, M., Konečný, P., Váczi, T., Berkesi, M., 2023. Estimation of P-T entrapment conditions of a subduction fluid using elastic thermobarometry: A case study from Cabo Ortegal Complex, Spain. Lithos 448–449, 107171. https://doi.org/10.1016/j.lithos.2023.107171 ``high-P granulites, Bacariza granulites, thermobarometry``
 
+Novo-Fernández, I., Albert, R., Arenas, R., Gil Ibarguchi, J.I., Sánchez Martínez, S., Gerdes, A., Díez Fernández, R., Beranoaguirre, A., Garcia-Casco, A., 2025. P-T evolution and refined U Pb geochronology of the giant eclogite layer of the Cabo Ortegal complex (NW Iberian Massif). Lithos 107952. https://doi.org/10.1016/j.lithos.2025.107952 ``eclogites, isotopic dating, PTt``
+
 ## Non-English papers, memoirs or chapters
 
 Vogel, D. E., 1967. Las rocas catazonales de la región de Cabo Ortegal. *Leidse Geologische Mededelingen*, *36*(1), 243–254. https://repository.naturalis.nl/pub/505924
